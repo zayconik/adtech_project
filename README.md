@@ -1,4 +1,4 @@
-# 📊 Scalable Ad Campaign Analytics Pipeline :
+# 📊 Scalable Ad Campaign Analytics Pipeline :-
 
 Develop a scalable, modular data pipeline to fetch campaign delivery data from mock APIs, transform and store it efficiently, and visualize performance through interactive, geo-filtered dashboards.
 
